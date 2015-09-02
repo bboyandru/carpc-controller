@@ -11,7 +11,9 @@ This is a Raspberry PI GPIO controller responsible for handling all GPIO events.
 ## Usage & Configuration
 Check the src/gpio_description file.
 
-
+## Building instruction
+cd src  
+make carpc-controller
 
 
 
